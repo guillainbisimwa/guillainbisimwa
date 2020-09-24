@@ -1,21 +1,21 @@
-### Hi there 👋
+
 <h2> Hey there! I'm Guillain BISIMWA 👋</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Computer Science at University of NGOZI and currently student at Microverse school for developers.
+- 💼 &nbsp; Working as a IT support and database manager at Hôpital provincial du Nord-kivu.
+- 🌱 &nbsp; Learning more about full-stack development, Cloud Architecture and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+- 💻 &nbsp;  JavaScript | React | Redux | Ruby | RoR | Python | Java | React Native 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🛢 &nbsp; MySQL | MongoDB | Couchbase
+- 🔧 &nbsp; Git | GitHub | Docker
+- 🖥 &nbsp; Photoshop | GIMP
 
 <br/>
 
@@ -24,10 +24,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-guillainbisimwa-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/guillainbisimwa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-guillainbisimwa__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:guillainbisimwa@hotmail.fr"><img alt="Email" src="https://img.shields.io/badge/Email-guillainbisimwa@hotmail.fr-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
 ⭐️ From [guillainbisimwa](https://github.com/guillainbisimwa)
