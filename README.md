@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of NGOZI and currently student at Microverse school for developers.
+- 🎓 &nbsp; Studied Computer Science at University of NGOZI and gratueted from Microverse school for developers.
 - 💼 &nbsp; Working as a IT support and database manager at Hôpital provincial du Nord-kivu.
-- 🌱 &nbsp; Learning more about full-stack development, Cloud Architecture and Systems Design.
+- 🌱 &nbsp; Full-stack development, Cloud Architecture and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
