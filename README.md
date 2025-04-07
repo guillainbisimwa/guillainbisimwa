@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at the University of NGOZI and graduated from Microverse school for developers and AS2V.
+- 🎓 &nbsp; Studied Computer Science at the University of NGOZI and graduated from Microverse school for developers and A2SV.
 - 💼 &nbsp; CE0, @WEZA-LAB.
 - 🌱 &nbsp; Full-stack development, Cloud Architecture and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
