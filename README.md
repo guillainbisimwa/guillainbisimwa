@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  JavaScript | React | Redux | Ruby | RoR | Python | Java | React Native | Kotlin | Cairo | Starknet
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Web3
 - 🛢 &nbsp; MySQL | MongoDB | Couchbase
 - 🔧 &nbsp; Git | GitHub | Docker
 - 🖥 &nbsp; Photoshop | GIMP
