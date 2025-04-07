@@ -4,14 +4,14 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of NGOZI and gratueted from Microverse school for developers.
-- 💼 &nbsp; Working as a IT support and database manager at Hôpital provincial du Nord-kivu.
+- 🎓 &nbsp; Studied Computer Science at the University of NGOZI and graduated from Microverse school for developers and AS2V.
+- 💼 &nbsp; CE0, @WEZA-LAB.
 - 🌱 &nbsp; Full-stack development, Cloud Architecture and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | React | Redux | Ruby | RoR | Python | Java | React Native 
+- 💻 &nbsp;  JavaScript | React | Redux | Ruby | RoR | Python | Java | React Native | Kotlin | Cairo | Starknet
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | Couchbase
 - 🔧 &nbsp; Git | GitHub | Docker
