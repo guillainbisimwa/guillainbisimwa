@@ -19,7 +19,6 @@
 
 <br/>
 
-[![Guillain BISIMWA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillainbisimwa&show_icons=true)](https://github.com/guillainbisimwa)
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/guillainbisimwa.svg)](https://user-badge.committers.top/congo_kinshasa_private/guillainbisimwa)
 
 <h3> 🤝🏻 Connect with Me </h3>
